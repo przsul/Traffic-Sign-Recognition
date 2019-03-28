@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>102.jpg</filename>
+	<path>C:\Users\Karol\Desktop\Studia\Sem_IV\AI_Projekt\model\research\object_detection\images\train\102.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1114</xmin>
+			<ymin>69</ymin>
+			<xmax>1260</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>
