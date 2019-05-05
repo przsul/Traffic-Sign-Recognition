@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>516.jpg</filename>
-	<path>C:\Users\Karol\Traffic-Sign-Recognition\images\train\516.jpg</path>
+	<filename>595.jpg</filename>
+	<path>C:\Users\Karol\Traffic-Sign-Recognition\images\train\595.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>684</xmin>
-			<ymin>2</ymin>
-			<xmax>707</xmax>
-			<ymax>68</ymax>
+			<xmin>947</xmin>
+			<ymin>84</ymin>
+			<xmax>997</xmax>
+			<ymax>193</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>B20</name>
+		<name>D6</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1033</xmin>
-			<ymin>86</ymin>
-			<xmax>1120</xmax>
-			<ymax>169</ymax>
+			<xmin>1120</xmin>
+			<ymin>97</ymin>
+			<xmax>1209</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>D6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>813</xmin>
+			<ymin>278</ymin>
+			<xmax>834</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>873</xmin>
-			<ymin>326</ymin>
-			<xmax>894</xmax>
-			<ymax>348</ymax>
+			<xmin>812</xmin>
+			<ymin>263</ymin>
+			<xmax>833</xmax>
+			<ymax>278</ymax>
 		</bndbox>
 	</object>
 </annotation>
