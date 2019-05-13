@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
 	<filename>907.jpg</filename>
-	<path>C:\Users\przem\Desktop\Traffic-Sign-Recognition\images\test\907.jpg</path>
+	<path>C:\Users\Karol\Traffic-Sign-Recognition\images\test\907.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,16 +11,4 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>B27</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>752</xmin>
-			<ymin>261</ymin>
-			<xmax>823</xmax>
-			<ymax>324</ymax>
-		</bndbox>
-	</object>
 </annotation>
