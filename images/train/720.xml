@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>720.jpg</filename>
+	<path>C:\Users\Karol\Traffic-Sign-Recognition\images\train\720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D43</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>925</xmin>
+			<ymin>242</ymin>
+			<xmax>1004</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

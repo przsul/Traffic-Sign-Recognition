@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>798.jpg</filename>
+	<path>C:\Users\Karol\Traffic-Sign-Recognition\images\train\798.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>B33_50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>755</xmin>
+			<ymin>303</ymin>
+			<xmax>803</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

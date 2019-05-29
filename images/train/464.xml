@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>464.jpg</filename>
+	<path>C:\Users\Karol\Traffic-Sign-Recognition\images\train\464.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>B36</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1101</xmin>
+			<ymin>10</ymin>
+			<xmax>1222</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>

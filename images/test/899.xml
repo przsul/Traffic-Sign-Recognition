@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>899.jpg</filename>
+	<path>C:\Users\Karol\Traffic-Sign-Recognition\images\test\899.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>B33_60</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>770</xmin>
+			<ymin>265</ymin>
+			<xmax>835</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

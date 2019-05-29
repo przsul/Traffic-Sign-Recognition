@@ -1,0 +1,67 @@
+A1 - Niebezpieczny zakret w prawo
+A11 - Nierówna droga
+A11a - Próg zwalniający
+A12b - Zwężenie jezdni - prawostronne 
+A14 - Roboty drogowe
+A16 - Uwaga przejście dla pieszych
+A17 - Dzieci
+A2 - Niebezpieczny zakręt w lewo
+A20 - Droga dwukierunkowa
+A21 - Uwaga tramwaj
+A22 - Niebezpieczny zjazd
+A23 - Stromy podjazd 
+A28 - Sypki żwir
+A29 - Sygnalizacja świetlna
+A3 - Niebezpieczne zakręty, pierwszy w prawo
+A30 - Inne niebezpieczeństwo
+A32 - Oszronienie jezdni
+A4 - Niebezpieczne zakręty, pierwszy w lewo
+A5 - Skrzyżowanie równorzędne
+A6a - Skrzyżowanie z drogą podporządkowana po obu stronach
+A6b - Skrzyżowanie z drogą podporządkowana po prawej stronie
+A6c - Skrzyżowanie z drogą podporządkowana po lewej stronie
+A6d - Wlot drogi z prawej strony
+A7 - Ustąp pierszeństwa
+A9 - Przejazd kolejowy z zaporami
+B16_3_7 - Zakaz wjazdu pojazdów o wysokości ponad 3.7m
+B2 - Zakaz wjazdu
+B20 - Stop
+B21 - Zakaz skręcania w lewo
+B22 - Zakaz skręcania w prawo
+B23 - Zakaz zawracania
+B25 - Zakaz wyprzedzania
+B31 - Pierwszeństwo dla nadjeżdżających z przeciwka
+B33_x - Ograniczenie prędkości
+B35 - Zakaz postoju
+B36 - Zakaz zatrzymywania się
+B41 - Zakaz ruchu pieszych
+B43_x - Stefa ograniczenia
+B5 - Zakaz pojazdów ciężarowych
+C10  - Nakaz jazdy z lewej strony znaku
+C12 - Ruch okrężny
+C2 - Nakaz jazdy w prawo za znakiem 
+C4 - Nakaz jazdy w lewo za znakiem
+C5 - Nakaz jazdy prosto
+C6 - Nakaz jazdy prosto lub w prawo
+C7 - Nakaz jazdy prosto lub w lewo
+C8 - nakaz jazdy w lewo lub w prawo
+C9 - Nakaz jazdy z prawej strony znaku
+D1 - Droga z pierwszeństwem
+D10 - Koniec autostrady
+D18 - Parking
+D2 - Koniec drogi z pierwszeństwem
+D3 - Droga jednokierunkowa
+D40 - Strefa zamieszkania
+D41 - Koniec strefy zamieszkania
+D42 - Obszar zabudowany
+D43 - Koniec obszaru zabudowanego
+D4a - Droga bez przejazdu
+D5 - Pierwszeństwo na zwężonym odcinku drogi
+D51 - Fotoradar
+D52 - Strefa ruchu
+D6 - Przejście dla pieszych
+D6b - Przejazd i przejście dla pieszych
+D7 - Początek drogi ekspresowej
+D8 - Koniec drogi ekspresowej
+D9 - Autostrada
+F10 - Kierunki na pasach ruchu

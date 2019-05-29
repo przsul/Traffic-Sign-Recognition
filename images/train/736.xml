@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>736.jpg</filename>
+	<path>C:\Users\Karol\Traffic-Sign-Recognition\images\train\736.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A6b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>787</xmin>
+			<ymin>249</ymin>
+			<xmax>834</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>
